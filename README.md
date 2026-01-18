@@ -8,11 +8,11 @@ This repository is a storage and documentation hub for all my activities in the 
 
 To maintain organization, this repository is divided into several main categories:
 
-* **`/Academics`**: Course materials, assignments, and practicals related to **Computational Chemistry**.
-* **`/Research-Projects`**: Research documentation, including computation within research groups.
-* **`/Self-Study`**: Independent exploration of bioinformatics, Python programming, and chemical algorithm development.
-* **`/Scripts`**: A collection of utility scripts (Python/Bash) for chemical data automation.
-* **`/Unsorted`**: A collection of files that haven't been categorized into a clear structure yet.
+* **`/academics`**: Course materials, assignments, and practicals related to **Computational Chemistry**.
+* **`/research-projects`**: Research documentation, including computation within research groups.
+* **`/self-study`**: Independent exploration of bioinformatics, Python programming, and chemical algorithm development.
+* **`/scripts`**: A collection of utility scripts (Python/Bash) for chemical data automation.
+* **`/unsorted`**: A collection of files that haven't been categorized into a clear structure yet.
 
 ---
 
